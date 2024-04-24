@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 500px;
+  margin:auto;
+  padding: 23px 20px;
+  Border border-radius: 150px;
+  
+  h1 {
+    font-size: 40px;
+    color: green;
+  }
+  h2 {
+    font-size: 40px;
+    color: orange;
+  }
+  h3 {
+    font-size: 40px;
+    color: aqua;
+  }
+}
